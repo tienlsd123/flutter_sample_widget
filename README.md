@@ -1,4 +1,4 @@
 # Sample Application Using Flutter
 
-This project using learning Flutter handle UI
+This project use to learning handle UI in Flutter
 
